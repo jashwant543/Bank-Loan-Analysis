@@ -16,4 +16,6 @@ The Bank Loan Analysis project is a comprehensive solution for analyzing loan da
 - **Power BI:** Integration for advanced data visualization and reporting.
 
 ![SS1](SS1.png)
+![SS1](SS2.png)
+![SS1](SS3.jpg)
 
