@@ -15,5 +15,5 @@ The Bank Loan Analysis project is a comprehensive solution for analyzing loan da
 - **MS SQL Server:** Database management and storage of loan data.
 - **Power BI:** Integration for advanced data visualization and reporting.
 
-![Placeholder Image](https://via.placeholder.com/600x400)
+![SS1](SS1.png)
 
