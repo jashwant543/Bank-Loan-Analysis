@@ -1,4 +1,4 @@
-# Bank Loan Analysis
+# (Loanalytics)-Bank Loan Analysis
 
 ## Overview
 The Bank Loan Analysis project is a comprehensive solution for analyzing loan data within the banking domain. It encompasses end-to-end processes from loan application processing to risk assessment, decision-making, portfolio management, regulatory compliance, and customer insights.
